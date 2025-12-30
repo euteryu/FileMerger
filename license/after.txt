@@ -1,0 +1,3 @@
+Thank you for installing FileMerger!
+
+To use the app, drag and drop your files appropriately in the black upload region or manually file-select.
